@@ -1,0 +1,24 @@
+{
+  "name": "cod3r-graphql-database",
+  "version": "1.0.0",
+  "description": "Repositório criado para executar os exercícios do capítulo referente Banco de Dados e GraphQL do curso de GraphQL da empresa de treinamentos Cod3r, ministrado pelo instrutor Leonardo Moura Leitão.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-castro-developer/cod3r-graphql-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-castro-developer/cod3r-graphql-database/issues"
+  },
+  "homepage": "https://github.com/lucas-castro-developer/cod3r-graphql-database#readme",
+  "dependencies": {
+    "knex": "^0.21.12",
+    "mysql": "^2.18.1"
+  }
+}
